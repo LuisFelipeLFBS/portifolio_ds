@@ -5,7 +5,7 @@
 </p>
 
 # Luis Felipe
-<sub>*Estudante* de Data Science Center</sub>
+<sub>*Estudante* de Data Science</sub>
 
 
 
