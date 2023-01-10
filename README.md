@@ -18,9 +18,9 @@
 
 
 ## Projetos:
-Veja os tutoriais publicados do Sigmoidal:
+Veja os meus projetos:
 
-* **Projeto 1** https://bit.ly/2L2cMwy
+* **Análise de dados do Airbnb - Lisboa** https://bit.ly/3GRWrYe
 
 
 ---
