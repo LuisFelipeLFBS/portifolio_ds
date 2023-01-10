@@ -20,7 +20,7 @@
 ## Projetos:
 Veja os meus projetos:
 
-* **Análise de dados do Airbnb - Lisboa** https://bit.ly/3GRWrYe
+* **Análise de dados do Airbnb - Lisboa** - https://bit.ly/3GRWrYe
 
 
 ---
