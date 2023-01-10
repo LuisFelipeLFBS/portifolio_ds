@@ -14,7 +14,7 @@
 **Links:**
 
 * [LinkedIn](https://www.linkedin.com/in/luisfelipe-lfbds)
-* [Medium](https://www.medium.com)
+* [Medium](https://medium.com/@lfpbds.professional)
 
 
 ## Projetos:
