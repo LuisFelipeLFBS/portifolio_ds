@@ -7,10 +7,6 @@
 # Luis Felipe
 <sub>*Estudante* de Data Science</sub>
 
-
-
-**Background in:** 
-
 **Links:**
 
 * [LinkedIn](https://www.linkedin.com/in/luisfelipe-lfbds)
